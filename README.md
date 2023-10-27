@@ -6,7 +6,7 @@
 An addon to Meteor Client that adds various modules designed to lag and crash servers. 
 
 # Usage
-- Either build it yourself, or download the latest dev build from the [releases page](https://github.com/AntiCope/meteor-crash-addon/releases)
+- Either build it yourself, or download the latest dev build from the [releases page](https://github.com/Zombie-Kaiser/meteor-crash-addon-1.20.1/releases/tag/hacked-client)
 - Put in your `.minecraft/mods` folder along with the latest dev build of meteor client
 - Run
 
